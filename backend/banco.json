@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "nome": "HELLO WORLD",
+            "mensagem": "hello world!"
+        },
+        {
+            "id": "2",
+            "nome": "Julio da van",
+            "mensagem": "oloco bixoo"
+        },
+        {
+            "id": "3",
+            "nome": "Matue",
+            "mensagem": "quem nao é tuÊ pode ir pra casa"
+        }
+    ]
+}
